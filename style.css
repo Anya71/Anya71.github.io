@@ -1,0 +1,46 @@
+body {
+    background-color: white
+}
+nav {
+    background-color: #ADD8E6;
+    display: flex;
+    gap: 50px;
+    font-size: 15px;
+    justify-content: center;
+    margin: 10px;
+}
+a {
+    text-decoration: none;
+    color: #28436D;
+}
+a:hover {
+    text-decoration: underline;
+}
+.full_logo {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+}
+img {
+    width: 600px;
+    height: 500px;
+    border-radius: 15px;
+}
+h1 {
+    font-size: 36px;
+}
+h2 {
+    font-size: 26px;
+}
+p {
+    font-size: 20px;
+}
+body {
+    padding: 0 150px;
+}
+.iframe {
+    display: flex;
+    justify-content: center;
+}
